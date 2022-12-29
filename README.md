@@ -1,7 +1,8 @@
 # esc-kana
 
 > This is a neovim plugin for optimizing Japanese input methods.
-> For obivous reasons, the rest of README is written only in Japanese.
+>
+> For obivous reasons, the rest of README is written in Japanese.
 
 ## 要約
 
